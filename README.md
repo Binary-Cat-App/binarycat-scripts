@@ -16,6 +16,9 @@ Write and save the password you chose in a file (eg. ./.password).
 
 ### .config.sh file
 ETH_FROM: public address
+
 ETH_KEYSTORE: directory where the keystore wallet is stored
+
 PASSWORD: file where the key password is stored
+
 ETH_RPC_URL: URL of the RPC node
